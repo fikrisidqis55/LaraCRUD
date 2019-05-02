@@ -27,7 +27,7 @@
       <input type="text" class="form-control" name="tahun_terbit" placeholder="">
     </div>
     <div class="form-group">
-      <label for="exampleInputEmail1">Pengarang</label>
+      <label for="exampleInputEmail1">Pengarang Buku</label>
       <input type="text" class="form-control" name="pengarang" placeholder="">
     </div>
 
